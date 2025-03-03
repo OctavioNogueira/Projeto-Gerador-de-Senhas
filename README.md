@@ -4,5 +4,10 @@
 
 
 
-# Projeto para gerar senhas 
 ## Projeto feito para você desenvolver senhas quando está com dúvidas de escolher alguma senha. (De 0 até 25 caracteres)
+
+### Tecnologias utilizadas :
+- HTML
+- CSS
+- JavaScript
+
